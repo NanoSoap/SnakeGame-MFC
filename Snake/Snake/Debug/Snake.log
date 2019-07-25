@@ -1,0 +1,49 @@
+﻿  SnakeView.cpp
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(208): error C2039: 'snake': is not a member of 'CSnakeDoc'
+  c:\users\gt\desktop\362\snake\snake\snakedoc.h(13): note: see declaration of 'CSnakeDoc'
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(208): error C2228: left of '.end' must have class/struct/union
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(209): error C2039: 'snake': is not a member of 'CSnakeDoc'
+  c:\users\gt\desktop\362\snake\snake\snakedoc.h(13): note: see declaration of 'CSnakeDoc'
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(209): error C2228: left of '.end' must have class/struct/union
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(213): error C2039: 'snake': is not a member of 'CSnakeDoc'
+  c:\users\gt\desktop\362\snake\snake\snakedoc.h(13): note: see declaration of 'CSnakeDoc'
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(213): error C2228: left of '.begin' must have class/struct/union
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(220): error C2039: 'snake': is not a member of 'CSnakeDoc'
+  c:\users\gt\desktop\362\snake\snake\snakedoc.h(13): note: see declaration of 'CSnakeDoc'
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(220): error C2228: left of '.begin' must have class/struct/union
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(247): error C2039: 'snake': is not a member of 'CSnakeDoc'
+  c:\users\gt\desktop\362\snake\snake\snakedoc.h(13): note: see declaration of 'CSnakeDoc'
+c:\users\gt\desktop\362\snake\snake\snakeview.cpp(247): error C2228: left of '.push_back' must have class/struct/union
+  SnakeDoc.cpp
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(73): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(73): error C2228: left of '.begin' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(73): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(76): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(76): error C2228: left of '.end' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(76): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(97): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(110): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(110): error C2228: left of '.push_back' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(110): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(136): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(136): error C2228: left of '.size' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(136): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(137): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(138): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(138): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(139): error C2065: 'var': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(139): error C2228: left of '.get' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(139): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(151): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(151): error C2228: left of '.clear' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(151): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(155): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(155): error C2228: left of '.push_back' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(155): note: type is 'unknown-type'
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(327): error C2065: 'snake': undeclared identifier
+c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(327): error C2228: left of '.clear' must have class/struct/union
+  c:\users\gt\desktop\362\snake\snake\snakedoc.cpp(327): note: type is 'unknown-type'
+  Generating Code...
+  Compiling...
+  Snake.cpp
+  Generating Code...
